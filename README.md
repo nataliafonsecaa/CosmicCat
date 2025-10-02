@@ -3,15 +3,16 @@
 Um jogo 2D feito em Python com Pygame, onde você controla um gatinho espacial chamado Nyan 🐱🚀 que deve desviar de alienígenas coloridos para sobreviver no espaço sideral.
 
 🎮 Como jogar
-Use as setas do teclado para mover o gatinho.
-Desvie dos alienígenas que caem da parte superior da tela.
-Sobreviva o tempo necessário para avançar de fase.
-Se atingir o limite de tempo da fase 2, você vence o jogo!
-Se colidir com um alien, é Game Over.
+- Use as setas do teclado para mover o gatinho.
+- Desvie dos alienígenas que caem da parte superior da tela.
+- Sobreviva o tempo necessário para avançar de fase.
+- Se atingir o limite de tempo da fase 2, você vence o jogo!
+- Se colidir com um alien, é Game Over.
 
 📂 Estrutura do projeto
+
 CosmicCat/
-│── assets/              # Imagens e sons do jogo
+│── assets/            # Imagens e sons do jogo
 │   ├── Player1.png
 │   ├── Enemy1.png
 │   ├── Enemy2.png
