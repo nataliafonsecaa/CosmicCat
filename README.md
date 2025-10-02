@@ -55,9 +55,11 @@ git clone https://github.com/nataliafonsecaa/CosmicCat.git
 cd CosmicCat
 
 2. Crie e ative um ambiente virtual (recomendado)
+   
 python -m venv venv
+
 venv\Scripts\activate   # no Windows
-# ou
+
 source venv/bin/activate  # no Linux/Mac
 
 3. Instale as dependências
@@ -67,8 +69,9 @@ pip install -r requirements.txt
 python main.py
 
 📦 Dependências
-Python 3.10+
-Pygame
+
+- Python 3.10+
+- Pygame
 
 No requirements.txt adicione:
 
