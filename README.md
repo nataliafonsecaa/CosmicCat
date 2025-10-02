@@ -12,23 +12,40 @@ Durante a disciplina Linguagem de Programação Aplicada, desenvolvi um jogo 2D 
 
 CosmicCat/
 │── assets/              # Imagens e sons do jogo
+
 │   ├── Player1.png
+
 │   ├── Enemy1.png
+
 │   ├── Enemy2.png
+
 │   ├── Enemy3.png
+
 │   ├── Levelbg0.png
+
 │   ├── 7481714.jpg
+
 │   ├── Level1.wav
+
 │   └── Level2.wav
+
 │
 │── src/                 # Código-fonte organizado
+
 │   ├── game.py          # Lógica do jogo
+
 │   ├── menu.py          # Menu inicial
+
 │   ├── score.py         # Tela de score
+
 │   ├── utils.py         # Funções auxiliares (carregar imagens, tocar música)
+
 │   └── __init__.py
+
 │
+
 │── main.py              # Arquivo principal para rodar o jogo
+
 │── requirements.txt     # Dependências do projeto
 
 
