@@ -1,6 +1,5 @@
 🌌 Cosmic Cat
-
-Um jogo 2D feito em Python com Pygame, onde você controla um gatinho espacial chamado Nyan 🐱🚀 que deve desviar de alienígenas coloridos para sobreviver no espaço sideral.
+Durante a disciplina Linguagem de Programação Aplicada, desenvolvi um jogo 2D com Python e Pygame, chamado Cosmic Cat. Um jogo 2D feito em Python com Pygame, onde você controla um gatinho espacial chamado Nyan, que deve desviar de alienígenas coloridos para sobreviver no espaço sideral.
 
 🎮 Como jogar
 - Use as setas do teclado para mover o gatinho.
@@ -57,3 +56,5 @@ Pygame
 No requirements.txt adicione:
 
 pygame
+
+
