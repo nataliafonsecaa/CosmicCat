@@ -12,7 +12,7 @@ Um jogo 2D feito em Python com Pygame, onde você controla um gatinho espacial c
 📂 Estrutura do projeto
 
 CosmicCat/
-│── assets/            # Imagens e sons do jogo
+│── assets/              # Imagens e sons do jogo
 │   ├── Player1.png
 │   ├── Enemy1.png
 │   ├── Enemy2.png
@@ -31,6 +31,7 @@ CosmicCat/
 │
 │── main.py              # Arquivo principal para rodar o jogo
 │── requirements.txt     # Dependências do projeto
+
 
 🚀 Como rodar
 1. Clone este repositório
